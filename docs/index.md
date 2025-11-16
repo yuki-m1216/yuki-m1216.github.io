@@ -17,3 +17,13 @@
 - **クラウド環境**: クラウド特有のリソース監視とアラートの考え方
 
 [モニタリング・アラートを学ぶ →](monitoring/index.md){ .md-button .md-button--primary }
+
+### Infrastructure as Code (IaC)
+
+インフラストラクチャをコードで定義・管理する手法について学べます。
+
+- **基礎知識**: IaCのメリット、宣言的定義と命令的定義の違い
+- **実践スキル**: コーディング原則、テスト、ディレクトリ構成のベストプラクティス
+- **実例**: AWS CDKを使った基本から応用まで
+
+[IaCを学ぶ →](iac/index.md){ .md-button .md-button--primary }

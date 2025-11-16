@@ -69,3 +69,10 @@ nav:
           - リソース監視: monitoring/resource-monitoring.md
       - 実践編:
           - よくある失敗例: monitoring/common-mistakes.md
+  - Infrastructure as Code:
+      - iac/index.md
+      - 基礎知識:
+          - IaCのメリット: iac/benefits.md
+          - 宣言的定義 vs 命令的定義: iac/declarative-vs-imperative.md
+      - 実践スキル:
+          - コーディング原則: iac/coding-principles.md
